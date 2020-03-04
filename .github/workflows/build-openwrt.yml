@@ -24,10 +24,10 @@ on:
 env:
   REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: dev-19.07
-  CONFIG_FILE: .config
+  CONFIG_FILE: config.newifi3.seed
   DIY_SH: diy.sh
   FREE_UP_DISK: false
-  SSH_ACTIONS: true
+  SSH_ACTIONS: false
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   TZ: Asia/Shanghai
