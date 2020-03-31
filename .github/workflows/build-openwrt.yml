@@ -13,9 +13,9 @@ on:
     types: [published]
   push:
     branches:
-      - lean-openwrt-newifi3
+      - lean-openwrt-x86
 #    paths:
-#      - 'lean_d2_config.txt'
+#      - '.config'
 #  schedule:
 #    - cron: 0 8 * * 5
   watch:
