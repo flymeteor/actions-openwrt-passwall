@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt Lean on 20200324 v2
+name: Build OpenWrt Lean on 20200331
 
 on:
   release:
